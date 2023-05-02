@@ -25,4 +25,4 @@ Installation
 
 **Acknowledgments**
 
-Thank you to **Dino Ienco** for his guidance and support during this project.
+Thank you to **Mr.Dino Ienco** for his guidance and support during this project.
